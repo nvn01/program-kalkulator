@@ -1,6 +1,0 @@
-﻿  MyForm.cpp
-C:\Project\Program-kalkulator\programkalkulator\programkalkulator\kalkulator.h(540,24): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
-  sekuensial.cpp
-  Generating Code...
-  bubble.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  programkalkulator.vcxproj -> C:\Project\Program-kalkulator\programkalkulator\x64\Debug\programkalkulator.exe
