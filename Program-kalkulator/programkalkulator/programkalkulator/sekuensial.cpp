@@ -1,0 +1,2 @@
+#include "sekuensial.h"
+

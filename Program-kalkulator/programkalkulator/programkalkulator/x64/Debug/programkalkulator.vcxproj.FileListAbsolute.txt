@@ -1,0 +1,6 @@
+C:\Project\Program-kalkulator\programkalkulator\programkalkulator\x64\Debug\programkalkulator.vcxproj.AssemblyReference.cache
+C:\Project\Program-kalkulator\programkalkulator\programkalkulator\x64\Debug\programkalkulator.MyForm.resources
+C:\Project\Program-kalkulator\programkalkulator\programkalkulator\x64\Debug\programkalkulator.vcxproj.GenerateResource.cache
+C:\Project\Program-kalkulator\programkalkulator\programkalkulator\x64\Debug\programkalkulator.kalkulator.resources
+C:\Project\Program-kalkulator\programkalkulator\programkalkulator\x64\Debug\programkalkulator.bubble.resources
+C:\Project\Program-kalkulator\programkalkulator\programkalkulator\x64\Debug\programkalkulator.sekuensial.resources
