@@ -1,0 +1,3 @@
+C:\Project\Program-kalkulator\rumuspercobaan\rumuspercobaan\x64\Debug\rumuspercobaan.vcxproj.AssemblyReference.cache
+C:\Project\Program-kalkulator\rumuspercobaan\rumuspercobaan\x64\Debug\rumuspercobaan.MyForm.resources
+C:\Project\Program-kalkulator\rumuspercobaan\rumuspercobaan\x64\Debug\rumuspercobaan.vcxproj.GenerateResource.cache
